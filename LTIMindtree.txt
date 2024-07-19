@@ -1,0 +1,10 @@
+Round 1
+Questions related to React
+CSS related basic questions
+MongoDB related questions like aggregation pipelines, how to create joins in MongoDB.
+Recursive query in MongoDB.
+
+Round 2:
+Hooks and their use cases.
+Need to design an inventory system, how will you design. (High level)
+Need to use CSS. What all steps you will take.
