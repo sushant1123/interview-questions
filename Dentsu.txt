@@ -1,1 +1,6 @@
-Round 1
+Round 1 & 2
+Questions related to basics of React.
+Virtual DOM concept
+event bubbling
+ES6 features
+coding questions
