@@ -1,0 +1,17 @@
+Round1:
+
+const arr = [1, 2, 3, 4, 5];
+arr[100] = 6;
+console.log(arr.length);
+console.log(arr);
+
+arr.length = 0;
+console.log(arr)
+
+arr1 = [5, 17, 22, 39, 45, 55];
+arr2 = [33, 22, 39, 55, 9];
+
+Can you write a function that returns the nth largest number from the combination of the two arrays, and also returns the occurrence of the nth largest number in the combination? 
+Don’t use any inbuilt methods like array.sort(). For example, if input is given as 3, it should return me the 3rd largest number in the combination with its occurrence count.
+
+debounce fn, throttled fn
