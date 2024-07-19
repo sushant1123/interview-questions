@@ -1,0 +1,23 @@
+Round1:
+
+Given a structure create a file explorer UI.
+Prop Drilling in react.
+HOC in react
+Context API
+
+
+Round2
+
+What are REST and HTTP?
+Representational State Transfer (REST) is an architectural style that defines how resources are accessed and manipulated. REST APIs are web services that allow clients to access data from a database using HTTP methods like GET, POST, PUT, and DELETE. REST APIs are popular with application developers because they communicate with other machines over complex operations in a simple way. They are stateless in form as they do not store any state of the request or response.
+
+HyperText Transfer Protocol (HTTP) is a communication protocol that defines how messages are formatted and transmitted. HTTP is the protocol that powers most everyday internet interactions, such as web browsers loading web pages, streaming video, and using a mobile device to turn off lights.
+
+why do options calls happen before our actual API call?
+The HTTP OPTIONS method is used to request information about the communication options available for a resource, such as a web page, image, file, or API endpoint. This method is often used by browsers or other clients to determine what HTTP methods and headers are supported by a server. It's primarily used for diagnostic and debugging purposes.
+
+Can we call POST API in browser?
+You can send a POST request to a REST API from a browser using JavaScript and the XMLHttpRequest or the Fetch API. Here's an example using the XMLHttpRequest object: var xhr = new XMLHttpRequest();
+
+What are the ways in which we can test apis
+postman, browser, swagger
