@@ -32,17 +32,3 @@ Project related questions
 Questions related to react.
 Virtual DOM concept
 Custom hook creation (useFetch)
-
-
-
-
-
-
-
-
-
-Round 2
-
-
-
-
