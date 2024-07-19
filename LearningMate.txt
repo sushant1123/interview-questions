@@ -1,0 +1,34 @@
+Round 1
+Questions related to react.
+Closures, Event bubbling, Event loop
+
+
+Round 2
+
+if(100 < 200){
+let a=100;
+var b=200;
+const c=300;
+}
+console.log(a,b,c);   // throw an error on 'a' as it is block scoped
+
+const alias = [
+  {
+        value: "QA",
+        label: "QA" 
+  },
+  {
+        value: "Staging",
+        label: "Staging"
+  },
+  {
+        value: "Production",
+        label: "Production" 
+  },
+  {
+    value: "Approved",
+    label: "Approved" 
+  }
+]
+1. Remove staging object from the array without creating new array.
+2. Add { value: "test", label: "test" } after production object without creating new array.
