@@ -1,0 +1,48 @@
+Round 1
+
+How Virtual DOM works in react?
+Pass by value and Pass by Reference
+any knowledge of MFE
+Test frameworks used
+how you push to git
+how useReducer works 
+what all hooks I have used?
+performance optimization hooks
+what is useMemo, useCallback hooks
+
+
+var strA = "hi there";
+var strB = strA;
+strB="bye there!";
+console.log (strA)
+
+var objA = {prop1: 42};var objB = objA;objB... }
+
+var objA = {prop1: 42};var objB = objA;objB = {};console.log(objA)
+var objA = {prop1: 42}; var objB = objA; 
+
+
+var objA = {prop1: 42};
+var objB = objA; 
+objB.prop1 = 90;
+console.log(objA)
+
+Round 2
+Project related questions
+Questions related to react.
+Virtual DOM concept
+Custom hook creation (useFetch)
+
+
+
+
+
+
+
+
+
+Round 2
+
+
+
+
