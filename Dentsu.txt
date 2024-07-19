@@ -1,6 +1,12 @@
 Round 1 & 2
-Questions related to basics of React.
+Questions related to the basics of React.
 Virtual DOM concept
 event bubbling
 ES6 features
 coding questions
+
+
+Round 3 (Client round)
+testing frameworks
+web fundamentals
+cookies related questions
