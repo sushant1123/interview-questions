@@ -1,0 +1,9 @@
+Round 1:
+
+How to achieve error boundary in react?
+How to cancel the network/api call?
+What is micro-frontend? How to achieve it? What all methods are there to achieve it?
+What is Saas in css ? What is mixins?
+State management (redux, context api)
+Multiple themes (dark/light/other)
+Redux flow with notifications (header/main content) example
