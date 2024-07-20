@@ -1,0 +1,30 @@
+Round 1:
+project overview
+React features compared to other frameworks
+state vs props
+virtual DOM in react
+difference between var, let and const. 
+why Redux is required.
+React routing.
+css frameworks.
+multithreading in nodejs
+setInterval vs setTimeout
+process.nextTick vs process.setImmediate.
+
+process.nextTick():
+Fires immediately on the same phase of the event loop, and is processed at the beginning of the event loop and between each phase. 
+It adds callbacks to the nextTickQueue, which is executed immediately after the current phase ends. The loop will block until the callback is resolved completely.
+
+setImmediate():
+Fires on the following iteration or "tick" of the event loop, and is processed in the Check handlers phase. 
+It adds callbacks to the event queue, which are executed during the check phase. 
+
+
+code snippet:
+
+const a = [5,6,7,8];
+if(typeof a == typeof(null)) {
+    console.log("its me");
+} else {
+    console.log("its you");
+}
