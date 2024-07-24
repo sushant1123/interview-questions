@@ -5,8 +5,9 @@ state vs props
 
 
 Round 2: (Client round)
-Functional vs Class Based components
+Functional vs Class Based components.
+Why are functional components better than class-based components?
 hooks in react
-created any custom hook in react?
-How to create a hook that is compatible with both functional and class based components.
-React machine coding problem - load the details from a json file to a table and pass the test cases.
+created any custom hook in React?
+How to create a hook compatible with functional and class-based components.
+React machine coding problem - load the details from a JSON file to a table and pass the test cases. (Hackerrank link)
