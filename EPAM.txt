@@ -1,0 +1,44 @@
+Round 1:
+machine coding questions
+    Capitalize first letter of each word in a given string (prototype way)
+    
+    infinite currying of sum(1)(2)(3)(4)....
+    const sum = (x) => {
+        return (y)=>{
+            if(y) {
+                return sum(x+y);
+            } else {
+                return x;
+            }
+        }
+    }
+    or in simple words
+    const sum = x => y => y ? sum(x+y) : x;
+    console.log(sum(1)(2)(3)(4)()); //10
+    
+    sum = (a) => a+1;
+    multiply = (b) => a*2;
+    pipe(sum, multiply)
+
+
+New features in HTML
+name properties of video tag
+difference between pseudo classes vs pseudo elements
+
+Closures in js
+function currying in JS
+ES6 features
+
+aggregation in mongodb
+
+Buffer in NodeJS
+Streams in NodeJS
+
+hooks used in React
+state vs props
+features of React
+
+
+
+
+
