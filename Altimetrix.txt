@@ -1,0 +1,12 @@
+Round 1:
+Questions on react basics
+virtual DOM
+state vs props
+
+
+Round 2: (Client round)
+Functional vs Class Based components
+hooks in react
+created any custom hook in react?
+How to create a hook that is compatible with both functional and class based components.
+React machine coding problem - load the details from a json file to a table and pass the test cases.
