@@ -123,6 +123,28 @@ var obj = {
 
 obj.sing();
 
+// Problem 6:
+console.log([1,2]+[3,4])   // "1,23,4"
+// [1,2] + [3,4]  ==> "1,2" + "3,4"  ==>  "1,23,4"
+
+// Problem 7:
+console.log({} == {})  // false
+console.log({} === {}) // false
+
+// Objects are stored by their references. In the above case, their reference is not the same Hence false output.
+
+// Problem 8
+let [a, b] = [1, 2, 3];
+
+console.log(a)   // 1
+console.log(b)   // 2
+
+
+// Problem 9
+let [a, ...b] = [1, 2, 3];
+
+console.log(a)   // 1
+console.log(b)   // [2, 3]
 
 
 
