@@ -17,5 +17,6 @@ var girl = function () {
 girl ();
 
 React related 1-2 questions
+difference between useMemo and React.memo
 
 
