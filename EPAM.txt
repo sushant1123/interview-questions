@@ -32,11 +32,35 @@ ES6 features
 aggregation in mongodb
 
 Buffer in NodeJS
-Streams in NodeJS
+Streams in NodeJS (how many streams?)
 
 hooks used in React
 state vs props
 features of React
+
+
+Round 2:
+how rendering works in browser? html/css/js import => browser dimensions measurement => dom painting => content loaded
+React code => focus on element when button clicked but do not expose other api's related to that element
+(useRef + useImperativeHandle hook)
+how useState works behind the scenes?
+What is react fiber?
+why hooks are written at the top level?
+why can't we use hooks conditionally?
+microtask and macrotask queue (priority of it)
+how event loop is different in NodeJS as compared to browser. 
+NodeJS code => read from a file and write (perform filter operations) to another file using streams.
+Which all design patterns I have used in my code?
+
+
+
+
+
+  
+
+
+
+
 
 
 
