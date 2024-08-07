@@ -5,6 +5,7 @@ console.log(typeof typeof 1); // string
 What are reducers in JS?
 unit testing related questions
 what is the main advantage of RTL over others? // promoting better test coverage and more robust code.
+Difference between microtask queue and macrotask queue
 
 implement function currying with Sum
 console.log(sum(1)(2)(3)(4)(5)(6)()); // 21
