@@ -19,5 +19,62 @@ girl ();
 
 React related 1-2 questions
 difference between useMemo and React.memo
+Portal in react
+
+
+Round 2:
+
+git rebase vs git merge
+shallow copy in enzyme
+
+var x = 5; 
+var z = x + " " + y; 
+y = 7; 
+console.log(z) // error
+
+if(-0){
+console.log("iffff")
+}
+else{
+console.log("elese") // this will be printed
+}
+
+
+import React, { useState } from 'react';
+
+const Counter = (someFunc) => {
+  const [count, setCount] = useState(0);
+
+  const increment = () => {
+    setCount(count + 1);
+
+  if(count > 10){
+      someFunc(count);
+  }
+  };
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <Child increment={increment} />
+    </div>
+  );
+};
+
+export default Counter;
+
+
+
+export const Child = ({increment}) => {
+  return <button onClick={increment}>Increment</button>
+}
+
+// export default Counter;
+
+
+
+// export const Child = ({increment}) => {
+//   return <button onClick={increment}>Increment</button>
+// }
 
 
