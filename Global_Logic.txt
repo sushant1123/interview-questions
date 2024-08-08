@@ -25,6 +25,7 @@ Portal in react
 Round 2:
 
 git rebase vs git merge
+Hoisting in JS
 shallow copy in enzyme
 
 var x = 5; 
